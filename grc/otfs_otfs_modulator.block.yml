@@ -1,0 +1,33 @@
+id: otfs_otfs_modulator
+label: OTFS Modulator
+category: '[OTFS]'
+
+templates:
+  imports: import otfs
+  make: otfs.otfs_modulator(${M}, ${N})
+
+parameters:
+- id: M
+  label: delay ntaps
+  dtype: int
+- id: N
+  label: doppler ntaps
+  dtype: int
+
+inputs:
+- label: in
+  domain: stream
+  dtype: complex
+  vlen: 1
+  optional: 0
+
+outputs:
+- label: out
+  domain: stream
+  dtype: complex
+  vlen: 1
+  optional: 0
+
+#  'file_format' specifies the version of the GRC yml format used in the file
+#  and should usually not be changed.
+file_format: 1

@@ -1,0 +1,13 @@
+/usr/local/lib/cmake/otfs/otfsConfig.cmake
+/usr/local/include/otfs/api.h
+/usr/local/lib/python3/dist-packages/otfs/__init__.py
+/usr/local/lib/python3/dist-packages/otfs/otfs_modulator.py
+/usr/local/lib/python3/dist-packages/otfs/otfs_demodulator.py
+/usr/local/lib/python3/dist-packages/otfs/__init__.pyc
+/usr/local/lib/python3/dist-packages/otfs/otfs_modulator.pyc
+/usr/local/lib/python3/dist-packages/otfs/otfs_demodulator.pyc
+/usr/local/lib/python3/dist-packages/otfs/__init__.pyo
+/usr/local/lib/python3/dist-packages/otfs/otfs_modulator.pyo
+/usr/local/lib/python3/dist-packages/otfs/otfs_demodulator.pyo
+/usr/local/share/gnuradio/grc/blocks/otfs_otfs_modulator.block.yml
+/usr/local/share/gnuradio/grc/blocks/otfs_otfs_demodulator.block.yml
